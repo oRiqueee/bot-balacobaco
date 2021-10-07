@@ -1,0 +1,11 @@
+{
+    "name": "twitterbot-nodejs",
+    "description": "Balacobaco bot",
+    "authors": "Henrique Amorim",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "dependencies": {}
+}
