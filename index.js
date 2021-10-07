@@ -1,6 +1,5 @@
 var twit = require("twit");
 
-
 const Bot = new twit({
     consumer_key: "PoIfw8URUuURGvSAx6cklRz70",
     consumer_secret: "XyvOP8Lw2fdgtkB3p7XdU7nRiP5DyJWbvSKBcru6pmy8J2MfU7",

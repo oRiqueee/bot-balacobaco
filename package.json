@@ -7,5 +7,7 @@
     "scripts": {
         "start": "node index"
     },
-    "dependencies": {}
+    "dependencies": {
+        "twit": "^2.2.11"
+    }
 }
