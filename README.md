@@ -7,8 +7,8 @@
 - Após localizar ele retweeta e curte o tweet.
 - Ele repete esse processo a cada 3 minutos.
 
-💡 O bot foi desenvolvido em Node.js utilizando a API do Twitter.
-💡 O bot está hospedado na plataforma Heroku.
+- O bot foi desenvolvido em Node.js utilizando a API do Twitter.
+- O bot está hospedado na plataforma Heroku.
 💡 Link para o Twitter: https://twitter.com/botdobalacobaco
 
 ![](https://i.imgur.com/ZPx8QtL.png)
