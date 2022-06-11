@@ -5,7 +5,7 @@
 
 - O bot localiza os tweets mais recentes que tenham a palavra "balacobaco".
 - Após localizar ele retweeta e curte o tweet.
-- Ele repete esse processo a cada 3 minutos.
+- Ele repete esse processo a cada 2 minutos.
 
 💡 O bot foi desenvolvido em Node.js utilizando a API do Twitter.
  <br/><br/>
